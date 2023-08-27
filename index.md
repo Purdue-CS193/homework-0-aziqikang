@@ -4,7 +4,7 @@
 
 - being introduced to practical programming tools!
 - the lack of exams
-- student TAs and lecturers :)
+- undergraduate TAs and lecturers :)
 
 ## Welcome to GitHub Pages
 
